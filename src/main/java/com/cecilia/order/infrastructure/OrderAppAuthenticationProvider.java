@@ -16,7 +16,6 @@ import java.util.Collection;
 import java.util.List;
 import java.util.stream.Collectors;
 
-
     @Component
     public class OrderAppAuthenticationProvider implements AuthenticationProvider { //with abstract it is happy
 
